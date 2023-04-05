@@ -159,3 +159,5 @@ $ python3 main.py
 <p align="center"><a href="https://t.me/Flame_Updates"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-🇺𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 #
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Noobxcoders/KyyMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L0t5eU11c2ljIG1h
